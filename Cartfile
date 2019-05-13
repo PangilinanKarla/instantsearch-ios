@@ -1,4 +1,4 @@
-#git "file:///Users/vladislavfitc/Workspace/instantsearch-core-swift"
+#git "file:///Users/vladislavfitc/Workspace/instantsearch-core-swift" "feat/new-vm-connectors"
 github "algolia/instantsearch-core-swift" "feat/new-vm-connectors"
-github "spinach/Signals" "fix-deployment-targets"
+#github "spinach/Signals" "fix-deployment-targets"
 #github "artman/Signals" ~> 6.0
